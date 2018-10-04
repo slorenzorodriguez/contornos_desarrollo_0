@@ -1,5 +1,5 @@
 # Titulo
 ## Subtitulo
 ###### Readme
-__readme
+~~error~~
 hola soy el readme
